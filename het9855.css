@@ -1,37 +1,55 @@
 body {
   text-align: center;
-  background-color: #00e699;
-}
+  background-color:#b3ffff;
+     }
+
 
 h1 {
   font-size: 5rem;
-  color: #6600ff;
+  color: green;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
 }
 
 footer {
-  color: #DBEDF3;
-  font-family: sans-serif;
+  
+  color: red;
+  font-family: lucida handwriting;
+  font-size:30px
 }
 
-.a {
-  background-color:#ff3377;
+.a 
+{
+  background-color:violet;
 }
 
-.b {
-  background-color:#66d9ff;
+.b 
+{
+  background-color:indigo;
 }
 
-.c {
-  background-color:#ff0066;
+.c 
+{
+  background-color:blue;
 }
 
-.d {
-  background-color:#ff0000;
+.d
+{
+  background-color:green;
 }
-
+.e
+{
+   background-color: yellow
+}
+.f
+{
+    background-color:orange 
+}
+.g
+{
+    background-color: red	
+}
 
 
 .set {
@@ -56,8 +74,7 @@ footer {
   font-family: 'Arvo', cursive;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 20px;
-  display: inline-block;
-  
+  display: inline-block;  
   text-align: center;
   margin: 8px;
   
